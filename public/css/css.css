@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: hsl(0, 8%, 95%);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
